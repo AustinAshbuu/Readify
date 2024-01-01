@@ -92,7 +92,7 @@ section.banner{
     justify-content: center;
     align-items: center;
     color: var(--green);
-    background-image: url('./media/bg/main.svg');
+    background-image: url('main.svg');
     background-size: 175%;
     background-position: 46% 4%;
     background-repeat: no-repeat;
